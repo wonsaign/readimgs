@@ -4,4 +4,4 @@
 * 百度云:https://login.bce.baidu.com/
 
 
-<zhipin-geek-version>v2.0</zhipin-geek-version>
+<zhipin-geek-version>v1.5</zhipin-geek-version>
