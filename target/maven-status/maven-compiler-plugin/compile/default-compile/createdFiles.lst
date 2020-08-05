@@ -1,0 +1,11 @@
+com/jiangjiang/readimgs/tools/OrcParse.class
+com/jiangjiang/readimgs/constant/ConstantEnum.class
+com/jiangjiang/readimgs/describer/BaiduOcrResult$Location.class
+com/jiangjiang/readimgs/constant/ConstantEnum$InvoiceType.class
+com/jiangjiang/readimgs/controller/FileUploadController.class
+com/jiangjiang/readimgs/ReadimgsApplication.class
+com/jiangjiang/readimgs/describer/BaiduOcrResult$WordResult.class
+com/jiangjiang/readimgs/describer/BaiduOcrResult$Probability.class
+com/jiangjiang/readimgs/describer/BaiduOcrResult.class
+com/jiangjiang/readimgs/tools/BaiduOrcParse.class
+com/jiangjiang/readimgs/tools/RegexTemplate.class

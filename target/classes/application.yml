@@ -1,0 +1,12 @@
+#spring:
+#  thymeleaf:
+#    prefix: /templates/
+#    suffix: .html
+#    encoding: UTF-8
+#    cache: false
+#  application:
+#    name:
+#  mvc:
+#    static-path-pattern : /**
+#  resources:
+#    static-locations: classpath:/static/, classpath:/templates/,classpath:/
